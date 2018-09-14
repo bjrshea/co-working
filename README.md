@@ -18,10 +18,10 @@ _This project is mock-up of a fictional co-working space that's coming to the Po
 
 _In order to get a feel for the market and the types of companies that are offering co-working spaces, I looked into the following companies for inspiration and research:_
 
-![The Encorepreneur Cafe](http://encorepreneurcafe.com/)
-![TechSpace](https://www.techspace.com/)
-![WeWork](https://www.wework.com/)
-![Centrl Office](https://centrloffice.com/)
+[The Encorepreneur Cafe](http://encorepreneurcafe.com/)
+[TechSpace](https://www.techspace.com/)
+[WeWork](https://www.wework.com/)
+[Centrl Office](https://centrloffice.com/)
 
 _Once I had a feel for the layouts and what users expected to find on a company's website, I began sketching up a *very* rough draft on what my site will look like:_
 
