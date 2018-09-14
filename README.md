@@ -18,11 +18,11 @@ _This project is mock-up of a fictional co-working space that's coming to the Po
 
 _In order to get a feel for the market and the types of companies that are offering co-working spaces, I reviewed the following websites for information and inspiration:_
 
-* The Encorepreneur Cafe] - http://encorepreneurcafe.com/
-* TechSpace - https://www.techspace.com/
-* WeWork - https://www.wework.com/
-* Centrl Office - https://centrloffice.com/
-* Harvard Business Review - https://hbr.org/2015/05/why-people-thrive-in-coworking-spaces
+* [The Encorepreneur Cafe](http://encorepreneurcafe.com/)
+* [TechSpace](https://www.techspace.com/)
+* [WeWork](https://www.wework.com/)
+* [Centrl Office](https://centrloffice.com/)
+* [Harvard Business Review](https://hbr.org/2015/05/why-people-thrive-in-coworking-spaces)
 
 _After reading through and reviewing those resources, I decided that my landing page should be more of a digital experience. I want the user to feel something when they open up the website. I want them to see themselves at this space and creating work that is meaningful to them._
 
