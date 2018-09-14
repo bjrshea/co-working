@@ -16,13 +16,17 @@ _This project is mock-up of a fictional co-working space that's coming to the Po
 
 ## Creative Research & Process
 
-_In order to get a feel for the market and the types of companies that are offering co-working spaces, I looked into the following companies for inspiration and research:_
+_In order to get a feel for the market and the types of companies that are offering co-working spaces, I reviewed the following websites for information and inspiration:_
 
-[The Encorepreneur Cafe](http://encorepreneurcafe.com/)
-[TechSpace](https://www.techspace.com/)
-[WeWork](https://www.wework.com/)
-[Centrl Office](https://centrloffice.com/)
+* The Encorepreneur Cafe] - http://encorepreneurcafe.com/
+* TechSpace - https://www.techspace.com/
+* WeWork - https://www.wework.com/
+* Centrl Office - https://centrloffice.com/
+* Harvard Business Review - https://hbr.org/2015/05/why-people-thrive-in-coworking-spaces
 
-_Once I had a feel for the layouts and what users expected to find on a company's website, I began sketching up a *very* rough draft on what my site will look like:_
+_After reading through and reviewing those resources, I decided that my landing page should be more of a digital experience. I want the user to feel something when they open up the website. I want them to see themselves at this space and creating work that is meaningful to them._
 
-![alt text](img/sketched-ideas.jpg "Sketched mock-ups.")
+_Once I had a feel for the layouts, I began sketching up a very rough draft on what my site will look like on both mobile and web:_
+
+![alt text](img/mobile-sketch.jpg "Mobile sketch mock-up.")
+![alt text](img/desktop-sketch.jpg "Desktop sketch mock-up.")
