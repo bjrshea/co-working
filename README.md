@@ -30,3 +30,15 @@ _Once I had a feel for the layouts, I began sketching up a very rough draft on w
 
 ![alt text](img/mobile-sketch.jpg "Mobile sketch mock-up.")
 ![alt text](img/desktop-sketch.jpg "Desktop sketch mock-up.")
+
+## Wireframing with Sketch
+
+_I used Sketch on thos project to wireframe the different viewports a user will use with this application. First off, let's take a look at the mobile viewport:_
+
+![alt text](img/mobile-video.mov "Video of mobile viewport.")
+
+_Second, let's take a look at the desktop viewport:_
+
+![alt text](img/desktop-video.mov "Video of mobile viewport.")
+
+_As you'll see, the mobile viewport condenses into a smaller version of the desktop viewport. The only real change is that the header will turn into a hamburger icon when the user is viewing the website from a mobile device or shrinks their viewport manually._
