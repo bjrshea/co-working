@@ -9,15 +9,23 @@ module.exports = {
     path: path.resolve(__dirname, 'dist')
   },
 
+  devtool: 'eval-source-map',
+  devServer: {
+    contentBase: './dist'
+  },
+
   module: {
     rules: [
+
       {
-        test: /\.css$/,
+        test: /\.scss$/,
         use: [
-          'style-loader',
-          'css-loader'
+            'style-loader',
+            'css-loader',
+            'sass-loader'
         ]
       }
+
     ]
   },
 
