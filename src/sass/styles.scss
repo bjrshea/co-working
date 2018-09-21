@@ -7,12 +7,12 @@ $main-font: 'Fira Sans Extra Condensed', sans-serif;
 }
 
 header {
+  width: 100%;
   background-color: $grey;
   color: white;
   img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
   }
   .header-links {
     padding: 0 6em;
@@ -49,6 +49,27 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  li {
+    text-shadow: 50px; 
+  }
+}
+
+.container {
+  img {
+    display: block;
+    margin: 80px auto 0 auto;
+    height: 50%;
+    width: 50%;
+  }
+}
+.container-text {
+  text-align: center;
+  margin: 80px 80px;
+}
+
+.border {
+  border-bottom: solid black;
+  margin-top: 20px
 }
 
 .divider {
@@ -56,16 +77,6 @@ body {
   img {
     width: 100%;
   }
-}
-
-.border {
-  border-bottom: solid black;
-  margin: 20px 0;
-}
-
-.container {
-  text-align: center;
-  padding: 50px 100px 0px 100px;
 }
 
 footer {
