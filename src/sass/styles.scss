@@ -1,7 +1,26 @@
-$font-stack: Helvetica, sans-serif;
-$primary-font-color: red;
+$grey: #3C3C3C;
 
-body {
-  font: 100% $font-stack;
-  color: $primary-font-color;
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: $grey;
+  color: white;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .header-links {
+    padding: 0 6em;
+    ul {
+      display: flex;
+      list-style: none;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: space-between;
+    }
+  }
 }
