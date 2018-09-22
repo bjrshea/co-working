@@ -24,9 +24,9 @@ After running these commands, you be able to make changes to the project and see
 
 ### User Stories
 
-![alt text](assets/images/user-story-1.jpg "Fictional user story #1.")
-![alt text](assets/images/user-story-2.jpg "Fictional user story #2.")
-![alt text](assets/images/user-story-3.jpg "Fictional user story #3.")
+![alt text](src/assets/images/user-story-1.jpg "Fictional user story #1.")
+![alt text](src/assets/images/user-story-2.jpg "Fictional user story #2.")
+![alt text](src/assets/images/user-story-3.jpg "Fictional user story #3.")
 
 ### Creative Research
 
@@ -42,23 +42,23 @@ After reading through and reviewing those resources, I decided that my landing p
 
 Once I had a feel for the layouts, I began sketching up a very rough draft on what my site will look like on both mobile and web:
 
-![alt text](assets/images/mobile-sketch.jpg "Mobile sketch mock-up.")
-![alt text](assets/images/desktop-sketch.jpg "Desktop sketch mock-up.")
+![alt text](src/assets/images/mobile-sketch.jpg "Mobile sketch mock-up.")
+![alt text](src/assets/images/desktop-sketch.jpg "Desktop sketch mock-up.")
 
 ### Wireframing with Sketch
 
 I used Sketch on this project to wireframe the different viewports a user will use with this application. First off, let's take a look at the mobile viewport:
 
-![alt text](assets/images/mobile-1.png "Photo of mobile viewport.")
-![alt text](assets/images/mobile-2.png "Photo of mobile viewport.")
-![alt text](assets/images/mobile-3.png "Photo of mobile viewport.")
-![alt text](assets/images/mobile-4.png "Photo of mobile viewport.")
+![alt text](src/assets/images/mobile-1.png "Photo of mobile viewport.")
+![alt text](src/assets/images/mobile-2.png "Photo of mobile viewport.")
+![alt text](src/assets/images/mobile-3.png "Photo of mobile viewport.")
+![alt text](src/assets/images/mobile-4.png "Photo of mobile viewport.")
 
 Second, let's take a look at the desktop viewport:
 
-![alt text](assets/images/desktop-1.png "Photo of desktop viewport.")
-![alt text](assets/images/desktop-2.png "Photo of desktop viewport.")
-![alt text](assets/images/desktop-3.png "Photo of desktop viewport.")
+![alt text](src/assets/images/desktop-1.png "Photo of desktop viewport.")
+![alt text](src/assets/images/desktop-2.png "Photo of desktop viewport.")
+![alt text](src/assets/images/desktop-3.png "Photo of desktop viewport.")
 
 As you'll see, the mobile viewport condenses into a smaller version of the desktop viewport. The only real change is that the header will turn into a hamburger icon when the user is viewing the website from a mobile device or shrinks their viewport manually.
 
@@ -66,5 +66,5 @@ As you'll see, the mobile viewport condenses into a smaller version of the deskt
 
 Sketch also served as a great tool for prototyping. If you're not familiar, prototyping is a way to demonstrate how your wireframes will function once they're coded and built. Here are some screenshots to show off some of the functionality:
 
-![alt text](assets/images/prototyping1.png "Photo of desktop prototyping.")
-![alt text](assets/images/prototyping2.png "Photo of mobile prototyping.")
+![alt text](src/assets/images/prototyping1.png "Photo of desktop prototyping.")
+![alt text](src/assets/images/prototyping2.png "Photo of mobile prototyping.")
