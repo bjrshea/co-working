@@ -19,7 +19,7 @@ header {
     position: absolute;
     top: 50%;
     right: 13%;
-    font-size: 16pt;
+    font-size: 1.5vw;
     ul {
       display: flex;
       list-style: none;
@@ -32,6 +32,7 @@ header {
     position: absolute;
     top: 0px;
     right: 0px;
+    font-size: 1.2vw;
     ul {
       display: inline-flex;
       list-style: none;
@@ -51,10 +52,10 @@ body {
   background-color: $white;
   p {
     font-family: helvetica;
-    font-size: 18px;
+    font-size: 1.5vw;
   }
   h1 {
-    font-size: 45px;
+    font-size: 3vw;
     font-family: $main-font;
     text-align: center;
     margin: 3% 0 1% 0;
@@ -89,7 +90,7 @@ body {
     display: block;
     margin: 0 auto 80px auto;
     padding: 10px 25px;
-    font-size: 25px;
+    font-size: 2vw;
     background-color: $grey;
     font-family: $main-font;
     color: white;
@@ -119,7 +120,7 @@ body {
   justify-content: center;
   margin-bottom: 80px;
   img {
-    padding: 0 50px;
+    padding: 0 5%;
     width: 15%;
     height: 15%;
   }
@@ -131,10 +132,12 @@ footer {
   background-color: $grey;
   padding: 15px 0;
   h2 {
+    font-size: 1.8vw;
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 2%;
   }
   ul {
+    font-size: 1.3vw;
     list-style: none;
     text-align: center;
   }
