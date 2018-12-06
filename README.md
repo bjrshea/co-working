@@ -1,6 +1,6 @@
 # The Remoter
 
-#### A mock up of a new co-working space coming to the Portland area.
+#### A mock up of a new co-working space coming to the Portland area. This project uses best practices such as planning with user stories, sketching layouts, wireframing layouts, prototyping, and mobile-first development.
 
 #### By **Brendan Shea**
 
@@ -14,7 +14,7 @@ To use this download and use this project, make sure you have Node Package Manag
 
 ```
 git clone https://github.com/bjrshea/co-working.git
-cd co-working
+cd "your project name"
 npm install
 npm run start
 ```
